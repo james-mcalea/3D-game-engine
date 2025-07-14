@@ -1,0 +1,10 @@
+build/
+opt/
+/*.suo
+/*.vcxproj
+/*.user
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+CMakeFiles/
+my3DEngine
